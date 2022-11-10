@@ -1,12 +1,10 @@
 # **2A Stage 2022**
 ###### tags: `Jetson NANO Projet`
 Créé par : Yen-Ting Lin
-Tuteur (AMU - Laboratoire d’Informatique et Systèmes, LIS) : Seifeddine BEN ELGHALI
-Tuteur (Ecole Centrale Marseille, ECM) : Laetitia ABEL-TIBERINI
 
-----------------
-## **Table Des Matières**
-[TOC]
+Tuteur (AMU - Laboratoire d’Informatique et Systèmes, LIS) : Seifeddine BEN ELGHALI
+
+Tuteur (Ecole Centrale Marseille, ECM) : Laetitia ABEL-TIBERINI
 
 ----------------
 ## **Introduction**
