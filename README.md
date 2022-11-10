@@ -27,30 +27,30 @@ L’objectif principale de ce stage est de développer une « skycamera » qui p
 
 ----------------
 ## **Travails**
-1. ==[Configuration de Jetson NANO](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/BJHzEBu59)==
-2. ==[Jetson NANO : Connexion à distance (SSH)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/r1d2L5O55)==
-3. ==[Jetson NANO : Utiliser CSI RPi Camera V2](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/SkYjr6K5q)==
-4. ==[Jetson NANO : Utiliser USB Camera](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Hy_8eJs5c)==
-5. ==[Installation Ubuntu avec VirtualBox](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/HJh7Zq39q)==
-6. ==[Jetson NANO : Python et GPIO](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/HksHoJscq)==
-7. ==[Jetson NANO : Utiliser Capteur BME680](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Byshh0c9c)==
-8. ==[Jetson NANO : Utiliser CSI RPi Camera HQ (Méthode 1)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Hk5h0kqc9)==
-9. ==[Jetson NANO : Utiliser CSI RPi Camera HQ (Méthode 2)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/rkFWNefi9)==
-10. ==[Jetson NANO : Camera HQ Py-Contrôleur (Méthode 1)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/HkHkKXni5)==
-11. ==[Jetson NANO : Camera HQ Py-Contrôleur (Méthode 2)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Byph1P3jq)==
-13. ==[Jetson NANO : Py-Contrôleur with BME680](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/H1C-ZlJnc)==
-14. ==[Jetson NANO : Réseau portable connexion](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/rykj9Gu2q)==
-15. ==[Jetson NANO : Sauver les données XLSX](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/BygIVKST5)==
-16. ==[Authentification de Drive API](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/rJdsF58p9)==
-17. ==[Jetson NANO : Télécharger dans le cloud](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Sk7NCdS65)==
-18. ==[Combinaison de Camera, BME680 et XLSX](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/BkMkh7wp5)==
-19. ==[Télécharger dans le cloud - avancé](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/ryZx4vvTq)==
-20. ==[Modification du ventilateur](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/ryuJp4rnq)==
-21. ==[Jetson NANO : Contrôler le ventilateur](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/rJXeGwt3c)==
-22. ==[Fabrication de la résistance chauffante](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/SyPai8r3c)==
-23. ==[Jetson NANO : Contrôler la résistance chauffante](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/H17mcuhp9)==
-24. ==[Jetson NANO : Les voyant lumineux](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Hk5UjJIaq)==
-25. ==[Cam, BME680, XLSX, Cloud, Rés_chf, Voy, Venti](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/HJtEYHxCq)==
+1. [Configuration de Jetson NANO](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/BJHzEBu59)
+2. [Jetson NANO : Connexion à distance (SSH)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/r1d2L5O55)
+3. [Jetson NANO : Utiliser CSI RPi Camera V2](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/SkYjr6K5q)
+4. [Jetson NANO : Utiliser USB Camera](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Hy_8eJs5c)
+5. [Installation Ubuntu avec VirtualBox](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/HJh7Zq39q)
+6. [Jetson NANO : Python et GPIO](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/HksHoJscq)
+7. [Jetson NANO : Utiliser Capteur BME680](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Byshh0c9c)
+8. [Jetson NANO : Utiliser CSI RPi Camera HQ (Méthode 1)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Hk5h0kqc9)
+9. [Jetson NANO : Utiliser CSI RPi Camera HQ (Méthode 2)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/rkFWNefi9)
+10. [Jetson NANO : Camera HQ Py-Contrôleur (Méthode 1)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/HkHkKXni5)
+11. [Jetson NANO : Camera HQ Py-Contrôleur (Méthode 2)](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Byph1P3jq)
+13. [Jetson NANO : Py-Contrôleur with BME680](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/H1C-ZlJnc)
+14. [Jetson NANO : Réseau portable connexion](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/rykj9Gu2q)
+15. [Jetson NANO : Sauver les données XLSX](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/BygIVKST5)
+16. [Authentification de Drive API](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/rJdsF58p9)
+17. [Jetson NANO : Télécharger dans le cloud](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Sk7NCdS65)
+18. [Combinaison de Camera, BME680 et XLSX](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/BkMkh7wp5)
+19. [Télécharger dans le cloud - avancé](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/ryZx4vvTq)
+20. [Modification du ventilateur](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/ryuJp4rnq)
+21. [Jetson NANO : Contrôler le ventilateur](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/rJXeGwt3c)
+22. [Fabrication de la résistance chauffante](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/SyPai8r3c)
+23. [Jetson NANO : Contrôler la résistance chauffante](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/H17mcuhp9)
+24. [Jetson NANO : Les voyant lumineux](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/Hk5UjJIaq)
+25. [Cam, BME680, XLSX, Cloud, Rés_chf, Voy, Venti](https://hackmd.io/@8KbRc796SnuYA2Dvsvk_BA/HJtEYHxCq)
 
 ----------------
 ## **Résultats**
