@@ -9,19 +9,13 @@ Tuteur (Ecole Centrale Marseille, ECM) : Laetitia ABEL-TIBERINI
 ----------------
 ## **Introduction**
 - **Intitulé du stage**
-:::success
 Conception et développement d'une carte Jetson Nano basée sur une skycamera à faible coût
-:::
 
 - **Durée du stage**
-:::warning
 De 27/06/2022 à 21/08/2022
-:::
 
 - **Descriptif de la mission**
-:::info
 L’objectif principale de ce stage est de développer une « skycamera » qui permet de prendre en photo le ciel chaque minute en synchronisation avec le capteur de l’énergie solaire capté par une petite cellule photovoltaïque. Cet équipement permettra de surveiller la production dans les champs photovoltaïque et détecter des défauts et/ou des pertes d’efficacité.
-:::
 
 ----------------
 ## **Travails**
@@ -211,6 +205,3 @@ st(right)->op1(right)->op2(bottom)->op3->cond1
 cond1(yes)->op5->e
 cond1(no)->op4(top)->cond1
 ```
-
-----------------
-## **Rapports**
